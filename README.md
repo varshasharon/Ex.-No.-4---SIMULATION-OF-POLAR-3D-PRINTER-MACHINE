@@ -32,9 +32,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![image](https://github.com/varshasharon/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/98278161/94ea6d78-bc60-43d3-99e6-d15906d11489)
 
-### Name:
-### Register Number:
+### Name:E. VARSHA SHARON 
+### Register Number:212222100058
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
